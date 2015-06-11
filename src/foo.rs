@@ -7,8 +7,8 @@ pub trait Bar {
 /// # Examples
 /// 
 /// ```
-/// use foo::Foo;
-/// use foo::Bar;
+/// use test::foo::Foo;
+/// use test::foo::Bar;
 ///
 /// struct MyFoo;
 /// impl Bar for MyFoo {
